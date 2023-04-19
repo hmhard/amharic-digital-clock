@@ -1,7 +1,7 @@
 # Amharic Digital Clock
 ## ድጅታል ሰዓት በአማርኛ
+![Clock](public/clock.png?raw=true "Clock")
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
