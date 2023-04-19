@@ -1,7 +1,19 @@
 {
   "name": "amharic-digital-clock",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "This is digital clock in amharic",
   "private": true,
+  "author": {
+    "name": "Miniyahil Kebede",
+    "email": "miniye6453@gmail.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/hmhard/amharic-digital-clock"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/hmhard"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
