@@ -9,10 +9,11 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/hmhard/amharic-digital-clock"
+      "url": "https://github.com/hmhard/amharic-digital-clock.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/hmhard",
+    "registry": "https://npm.pkg.github.com",
+    "@hmhard:registry": "https://npm.pkg.github.com",
     "access": "public"
   },
   "dependencies": {
