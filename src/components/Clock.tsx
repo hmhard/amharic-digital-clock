@@ -36,7 +36,7 @@ export const Clock = ({h24=true}) => {
         }, 1000);
 
         return ()=>clearInterval(interval);
-    }, []);
+    }, [h24]);
 
     return (
         <div className='clock'>
