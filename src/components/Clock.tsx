@@ -42,7 +42,7 @@ export const Clock = ({h24=true}) => {
         <div className='clock'>
             <div className='calendar'>
                 {
-                    WEEK_DAYS.map((value, index)=>(<Word key={value} value={value} hidden={index != day}/>))
+                    WEEK_DAYS.map((value, index)=>(<Word key={value} value={value} hidden={index !== day}/>))
                 }
             </div>
             <div className='row'>
