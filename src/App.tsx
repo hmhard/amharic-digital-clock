@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <Clock />
+    <a href='https://github.com/hmhard/amharic-digital-clock'>View in github</a>
     </>
   );
 }
