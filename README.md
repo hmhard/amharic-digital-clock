@@ -2,7 +2,7 @@
 ## ድጅታል ሰዓት በአማርኛ
 ![Clock](public/clock.png?raw=true "Clock")
 
-[!Pileline](https://github.com/hmhard/amharic-digital-clock/actions/workflows/node.js.yml/badge.svg)](https://github.com/hmhard/amharic-digital-clock/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/hmhard/amharic-digital-clock/actions/workflows/node.js.yml/badge.svg)](https://github.com/hmhard/amharic-digital-clock/actions/workflows/node.js.yml)
 
 ## Available Scripts
 
