@@ -1,7 +1,7 @@
 # Amharic Digital Clock
 ## ድጅታል ሰዓት በአማርኛ
 
-![Clock](public/clock.png?raw=true "Clock")
+![Header](public/clock.png?raw=true "Clock")
 
 [![Node.js CI](https://github.com/hmhard/amharic-digital-clock/actions/workflows/node.js.yml/badge.svg)](https://github.com/hmhard/amharic-digital-clock/actions/workflows/node.js.yml)
 
