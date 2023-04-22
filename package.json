@@ -13,7 +13,7 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
-    "@hmhard:registry": "https://npm.pkg.github.com",
+    "@hmhard:registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "dependencies": {
