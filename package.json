@@ -12,7 +12,7 @@
       "url": "https://github.com/hmhard/amharic-digital-clock.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
+    "registry": "https://registry.npmjs.org/",
     "@hmhard:registry": "https://registry.npmjs.org/",
     "access": "public"
   },
