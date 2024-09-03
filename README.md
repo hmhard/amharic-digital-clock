@@ -14,3 +14,8 @@ npm test
 npm run build
 npm run eject
 ```
+
+## Please create PR to the available issues
+
+---
+### if you like the idea, please give give the star to the repo
